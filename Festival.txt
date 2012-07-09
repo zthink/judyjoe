@@ -1,0 +1,1064 @@
+-
+  name: 新年元旦
+  date: 01-01
+  description: 在大洋洲汤加，第一缕新年阳光已经降临，大家新年好！
+
+-
+  name: 哈尔滨冰雪节
+  date: 01-05
+  description: 去玩雪吧！
+
+-
+  name: 中国110宣传日
+  date: 01-10
+  description: 有困难找警察。
+
+-
+  name: 国际海关日 
+  date: 01-26
+  description: 
+
+-
+  name: 国际大屠杀纪念日 
+  date: 01-27
+  description: 静默。
+
+-
+  name: 世界湿地日
+  date: 02-02
+  description: 去湿地旅行！
+
+-
+  name: 世界抗癌症日
+  date: 02-4
+  description: 记得定期检查身体哟，亲
+
+-
+  name: 国际声援南非日
+  date: 02-7
+  description: 雎鸠网声援南非！
+
+-
+  name: 国际气象节 
+  date: 02-10
+  description: 
+
+-
+  name: 情人节
+  date: 02-14
+  description: 亲爱的，今天忘记一切，今天只想找到你，抱着你，爱着你。
+
+-
+  name: 中国12亿人口日(1995年)
+  date: 02-15
+  description:
+
+-
+  name: 国际母语日
+  date: 02-21
+  description: 中文，世界上最美的语言。
+
+-
+  name: 反对殖民主义斗争日 
+  date: 02-21
+  description: 走，今天去玩真人CS
+
+-
+  name: 第三世界青年日 
+  date: 02-24
+  description: 
+
+-
+  name: 世界居住条件调查日 
+  date: 02-28
+  description: 
+
+-
+  name: 国际罕见病日
+  date: 02-29
+  description: 全球目前确认的罕见病有六七千种，约占人类总疾病的10%。中国罕见病有30余种涉及1000万人
+
+-
+  name: 国际海豹日 
+  date: 03-01
+  description: 去动物园看海豹吧！
+
+-
+  name: 全国爱耳日
+  date: 03-03
+  description: 减少噪声，保护听力。
+
+-
+  name: 学雷锋纪念日
+  date: 03-05
+  description: 今天你做好事了吗？
+
+-
+  name: 世界青光眼日 
+  date: 03-06
+  description: 马上放下手头的一切，做个眼保建操吧。
+
+-
+  name: 妇女节
+  date: 03-08
+  description: 给母亲打个电话，给女朋友送一束花
+
+-
+  name: 保护母亲河日 
+  date: 03-09
+  description: 黄河，我们此生必看的地方。
+
+-
+  name: 植树节
+  date: 03-12
+  description: 种一棵树吧。
+
+-
+  name: 国际警察节 
+  date: 03-14
+  description: 
+
+-
+  name: 国际消费者权益日
+  date: 03-15
+  description: 希望这世界美好到不需要投诉。
+
+-
+  name: 国际航海日
+  date: 03-17
+  description: 每个人心中都有一个航海梦
+
+-
+  name: 中国国医节
+  date: 03-17
+  description: 
+
+-
+  name: 全国科技人才活动日
+  date: 03-18
+  description: 
+
+-
+  name: 全球法语日
+  date: 03-20
+  description: 
+
+-
+  name: 世界睡眠日
+  date: 03-21
+  description: 今天不熬夜！
+
+-
+  name: 国际消除种族歧视日
+  date: 03-21
+  description: 黑猫白猫，能抓老鼠就是好猫。
+
+-
+  name: 世界儿歌日
+  date: 03-21
+  description: 两只老虎，两只老虎，跑得快，跑得快，预备，唱~
+
+-
+  name: 世界森林日 
+  date: 03-21
+  description: 远离城市，去森林里感受自然吧。
+
+-
+  name: 世界水日
+  date: 03-22
+  description: 珍惜用水 
+
+-
+  name: 世界气象日 
+  date: 03-23
+  description: 关注地球变暖，保护我们的地球。
+
+-
+  name: 世界防治结核病日 
+  date: 03-24
+  description: 记得定时体检哦，亲
+
+-
+  name: 世界戏剧日
+  date: 03-27
+  description: 虽说人生如戏，但还是去看个正经的戏剧吧，这么我们的演技有帮助。
+
+-
+  name: 愚人节
+  date: 04-01
+  description: 我们将从今天所有许愿中随机抽取一个，帮助实现。
+
+-
+  name: 国际儿童图书日 
+  date: 04-02
+  description: 
+
+-
+  name: 世界自闭症日
+  date: 04-02
+  description: 天天上雎鸠，保证不自闭。
+
+-
+  name: 巴勒斯坦儿童日 
+  date: 04-05
+  description: 
+
+-
+  name: 世界卫生日 
+  date: 04-07
+  description: 
+
+-
+  name: 世界高血压日
+  date: 04-07
+  description: 
+
+-
+  name: 反思卢旺达大屠杀国际日
+  date: 04-07
+  description: 
+
+-
+  name: 非洲环境保护日
+  date: 04-10
+  description: 
+
+-
+  name: 世界帕金森病日
+  date: 04-11
+  description: 
+
+-
+  name: 非洲自由日
+  date: 04-15
+  description: 
+
+-
+  name: 世界社会工作日
+  date: 04-15
+  description: 
+
+-
+  name: 全球青年服务日
+  date: 04-16
+  description: 
+
+-
+  name: 世界血友病日
+  date: 04-17
+  description: 
+
+-
+  name: 国际古迹遗址日
+  date: 04-18
+  description: 
+
+-
+  name: 全国企业家活动日
+  date: 04-21
+  description: 
+
+-
+  name: 世界地球日
+  date: 04-22
+  description: 
+
+-
+  name: 世界法律日
+  date: 04-22
+  description: 
+
+-
+  name: 世界读书日
+  date: 04-23
+  description: 读书吧，现在就开始。
+
+-
+  name: 世界图书和版权日
+  date: 04-23
+  description: 
+
+-
+  name: 亚非新闻工作者日
+  date: 04-24
+  description: 
+
+-
+  name: 世界防治疟疾日
+  date: 04-25
+  description: 
+
+-
+  name: 全国预防接种宣传日
+  date: 04-25
+  description: 
+
+-
+  name: 世界知识产权日
+  date: 04-26
+  description: 
+
+-
+  name: 联谊城日
+  date: 04-27
+  description: 
+
+-
+  name: 世界安全生产与健康日
+  date: 04-28
+  description: 
+
+-
+  name: 化学战受害者纪念日
+  date: 04-29
+  description: 
+
+-
+  name: 全国交通安全反思日 
+  date: 04-30
+  description: 
+
+-
+  name: 世界儿童日
+  date:04-3-6
+  weekbase:true 
+  
+-
+  name: 国际劳动节
+  date: 05-01
+  description: 我想我能马上做的，就是打扫房间。
+
+-
+  name: 世界新闻自由日 
+  date: 05-03
+  description: 恩，雎鸠是个好网站。
+
+-
+  name: 青年节
+  date: 05-04
+  description: 
+
+-
+  name: 全国碘缺乏病日 
+  date: 05-05
+  description: 
+ 
+-
+  name: 世界红十字日
+  date: 05-08
+  description: 
+
+-
+  name: 世界微笑日
+  date: 05-08
+  description: 
+
+-
+  name: 战胜德国法西斯纪念日
+  date: 05-09
+  description: 
+
+-
+  name: 中国汶川地震
+  date: 05-12
+  description: 
+
+-
+  name: 国际护士节
+  date: 05-12
+  description: 
+
+-
+  name: 国际家庭日
+  date: 05-15
+  description: 给爸妈打个电话吧。
+
+- 
+  name: 世界电信日
+  date: 05-17
+  description: 用电信宽带的同学们，请继续上网；用网通宽带的同学们，请拔网线关WIFI。
+
+-
+  name: 国际博物馆日
+  date: 05-18
+  description: 我们一起去博物馆吧。
+
+-
+  name: 中国汶川地震哀悼日
+  date: 05-19
+  description: 默哀。
+
+-
+  name: 全国学生营养日
+  date: 05-20
+  description: 
+
+-
+  name: 网络情人节
+  date: 05-20
+  description: 我想对你说三个字：5-2-0 。
+
+-
+  name: 世界计量日
+  date: 05-20
+  description: 
+
+-
+  name: 世界文化发展日
+  date: 05-21
+  description: 
+
+-
+  name: 国际生物多样性日
+  date: 05-22
+  description: 
+
+-
+  name: 非洲解放日
+  date: 05-25
+  description: 
+
+-
+  name: 世界向人体条件挑战日 
+  date: 05-26
+  description: 
+
+-
+  name: 国际维和人员日 
+  date: 05-29
+  description: 
+
+-
+  name: 世界无烟日
+  date: 05-31
+  description: 今天不抽烟！
+
+-
+  name: 母亲节
+  date:05-2-6
+  weekbase:true 
+  
+-
+  name: 国际牛奶日
+  date:05-3-1
+  weekbase:true 
+
+-
+  name: 全国助残日
+  date:05-3-6
+  weekbase:true 
+  
+-
+  name: 国际儿童节
+  date: 06-01
+  description: 我们都是好孩子，最最天真的孩子
+  lunar: false
+
+-
+  name: 受侵略戕害的无辜儿童国际日
+  date: 06-04
+  description: 
+
+-
+  name: 世界环境日
+  date: 06-05
+  description: 一起许个愿吧，让世界充满绿
+  lunar: false
+
+-
+  name: 全国爱眼日
+  date: 06-06
+  description: 为革命、保护视力，眼保健操，开始！
+  lunar: false
+
+-
+  name: 世界海洋日
+  date: 06-08
+  description: 
+
+-
+  name: 中国人口日
+  date: 06-11
+  description: 
+
+-
+  name: 世界无童工日
+  date: 06-12
+  description: 
+
+-
+  name: 世界献血者日
+  date: 06-14
+  description: 一生请至少献一次血。
+
+-
+  name: 世界难民日
+  date: 06-20
+  description: 
+
+-
+  name: 中国儿童慈善活动日
+  date: 06-22
+  description: 
+
+-
+  name: 国际奥林匹克日
+  date: 06-23
+  description: 
+
+-
+  name: 世界骨质疏松日
+  date: 06-24
+  description: 
+
+-
+  name: 全国土地日
+  date: 06-25
+  description: 
+
+-
+  name: 联合国宪章日
+  date: 06-26
+  description: 老婆，今天我要在爱情宪章上签字保证：1、老婆永远是对的；2、如果老婆错了，我会看第一条。
+
+-
+  name: 国际禁毒日
+  date: 06-26
+  description: 
+  
+-
+  name: 香港回归日
+  date: 07-01
+  description: 你可知Ma-cau 不是我真姓
+  lunar: false
+
+-
+  name: 国际建筑日
+  date: 07-01
+  description: 
+
+-
+  name: 中国共产党诞生日
+  date: 07-01
+  description: 
+
+-
+  name: 国际体育记者日
+  date: 07-02
+  description: 
+
+-
+  name: 中国抗日战争纪念日
+  date: 07-07
+  description: 
+
+-
+  name: 七夕情人节
+  date: 07-07
+  description: 七夕鹊桥相会，抛出你的红线吧
+  lunar: true
+
+-
+  name: 中国航海日 
+  date: 07-11
+  description: 
+
+-
+  name: 曼德拉国际日
+  date: 07-18
+  description: 
+
+-
+  name: 人类月球日
+  date: 07-20
+  description: 带我去月球！
+
+-
+  name: 世界肝炎日
+  date: 07-28
+  description: 
+
+-
+  name: 国际合作节
+  date:07-1-5
+  weekbase:true 
+  
+-
+  name: 建军节
+  date: 08-01
+  description: 
+
+-
+  name: 国际电影节
+  date: 08-06
+  description: 
+
+-
+  name: 全民健身日
+  date: 08-08
+  description: 今天开始健身！
+
+-
+  name: 爸爸节
+  date: 08-08
+  description: 爸爸，我爱你。
+
+-
+  name: 国际土著人日
+  date: 08-09
+  description: 
+
+-
+  name: 国际青年日
+  date: 08-12
+  description: 
+
+-
+  name: 日本正式宣布无条件投降日
+  date: 08-15
+  description: 
+
+-
+  name: 纳米比亚日
+  date: 08-26
+  description: 
+
+-
+  name: 中国抗日战争胜利纪念日
+  date: 09-03
+  description: 
+
+-
+  name: 国际新闻工作者(团结)日 
+  date: 09-08
+  description: 
+
+-
+  name: 世界扫盲日 
+  date: 09-08
+  description: 
+
+-
+  name: 教师节
+  date: 09-10
+  description: 还记得你最喜欢的老师吗？抽个空，回母校陪她聊聊天吧
+  lunar: false
+
+-
+  name: 中国网民文化节
+  date: 09-14
+  description: 
+
+-
+  name: 世界清洁地球日
+  date: 09-14
+  description: 
+
+-
+  name: 国际民主日
+  date: 09-15
+  description: 
+
+-
+  name: 国际臭氧层保护日
+  date: 09-16
+  description: 
+
+-
+  name: “九·一八”事变纪念日(中国国耻日)
+  date: 09-18
+  description: 
+
+-
+  name: 全国爱牙日
+  date: 09-20
+  description: 
+
+
+-
+  name: 国际和平日
+  date: 09-21
+  description: 
+
+-
+  name: 世界停火日
+  date: 09-21
+  description: 情侣们注意嘞，今天不得开火。
+
+-
+  name: 世界无车日 
+  date: 09-22
+  description: 今天咱们还是走路回家吧，时间可能很长，请带上手电。
+
+-
+  name: 世界旅游日
+  date: 09-27
+  description: 抛开工作，出去玩吧~
+  lunar: false
+
+-
+  name: 国际翻译日
+  date: 09-30
+  description: 
+
+-
+  name: 全民国防教育日
+  date:09-3-5
+  weekbase:true 
+
+-
+  name: 国际聋人节
+  date:09-4-6
+  weekbase:true 
+
+-
+  name: 国庆节
+  date: 10-01
+  description: 吼！国庆节~去哪玩~！
+  lunar: false
+
+-
+  name: 国际老年人日
+  date: 10-01
+  description: 
+
+-
+  name: 国际和平与民主自由斗争日
+  date: 10-02
+  description: 
+
+-
+  name: 世界动物日
+  date: 10-04
+  description: 可爱的小动物不只有喵星人和汪星人哦~
+  lunar: false
+
+-
+  name: 世界教师日
+  date: 10-05
+  description: 给曾经的老师们送去一个问候吧。
+
+-
+  name: 国际左撇子日
+  date: 10-08
+  description: 
+
+-
+  name: 全国高血压日
+  date: 10-08
+  description: 
+
+-
+  name: 世界视觉日
+  date: 10-08
+  description: 
+
+-
+  name: 世界邮政日
+  date: 10-09
+  description: 给你的TA写封信吧~
+  lunar: false
+
+-
+  name: 辛亥革命纪念日
+  date: 10-10
+  description: 
+
+-
+  name: 世界居室卫生日
+  date: 10-10
+  description: 
+
+-
+  name: 世界精神卫生日
+  date: 10-10
+  description: 
+
+-
+  name: 世界镇痛日
+  date: 10-11
+  description: 
+
+-
+  name: 世界关节炎日
+  date: 10-12
+  description: 
+
+-
+  name: 世界60亿人口日 
+  date: 10-12
+  description: 
+
+-
+  name: 世界保健日 
+  date: 10-13
+  description: 
+
+-
+  name: 国际教师节  
+  date: 10-13
+  description: 
+
+-
+  name: 国际标准时间日
+  date: 10-13
+  description: 
+
+-
+  name: 采用格林威治时间为世界标准日
+  date: 10-14
+  description: 这个国际节日是献给全世界成千上万从事标准化工作的志愿者的礼物。
+
+-
+  name: 世界农村妇女日 
+  date: 10-15
+  description: 
+
+-
+  name: 国际盲人节 
+  date: 10-15
+  description: 
+
+-
+  name: 全球洗手日
+  date: 10-15
+  description: 
+
+-
+  name: 世界粮食日
+  date: 10-16
+  description: 
+
+-
+  name: 世界消除贫困日
+  date: 10-17
+  description: 
+
+-
+  name: 世界厨师日
+  date: 10-20
+  description: 
+
+-
+  name: 世界骨质疏松日 
+  date: 10-20
+  description: 
+
+-
+  name: 世界传统医药日 
+  date: 10-22
+  description: 
+
+-
+  name: 联合国日 
+  date: 10-24
+  description: 
+
+-
+  name: 男性健康日
+  date: 10-28
+  description: 
+
+-
+  name: 世界勤俭日 
+  date: 10-31
+  description: 
+
+-
+  name: 国际住房日
+  date:10-1-0
+  weekbase:true 
+
+-
+  name: 国际减轻自然灾害日
+  date:10-2-2
+  weekbase:true 
+
+-
+  name: 万圣节
+  date: 10-31
+  description: 咩哈哈！不给糖 就捣蛋！
+  lunar: false
+
+-
+  name: 十月社会主义革命纪念日
+  date: 11-07
+  description: 
+
+-
+  name: 中国记者节
+  date: 11-08
+  description: 
+
+-
+  name: 吉尼斯世界纪录日
+  date: 11-09
+  description: 
+
+-
+  name: 中国消防宣传日
+  date: 11-09
+  description: 
+
+-
+  name: 世界青年节
+  date: 11-10
+  description: 
+
+-
+  name: 光棍节
+  date: 11-11
+  description: 
+
+-
+  name: 世界糖尿病日
+  date: 11-14
+  description: 
+
+-
+  name: 国际宽容日
+  date: 11-16
+  description: 世界如此美好，我却如此急躁，这样不好，不好。
+
+-
+  name: 国际大学生节
+  date: 11-17
+  description: 大学---生了没？
+  lunar: false
+
+-
+  name: 世界厕所日
+  date: 11-19
+  description: 
+
+-
+  name: 非洲工业化日 
+  date: 11-20
+  description: 
+
+-
+  name: 世界问候日
+  date: 11-21
+  description: 今天请问候身边每一个人。
+
+-
+  name: 世界电视日 
+  date: 11-21
+  description: 
+
+-
+  name: 消除对妇女的暴力日
+  date: 11-25
+  description: 
+
+-
+  name: 国际声援巴勒斯坦人民日
+  date: 11-29
+  description: 
+
+-
+  name: 世界艾滋病日
+  date: 12-01
+  description: 
+
+-
+  name: 废除奴隶制国际日
+  date: 12-02
+  description: 
+
+-
+  name: 全国法制宣传日
+  date: 12-04
+  description: 
+
+-
+  name: 国际志愿人员日
+  date: 12-05
+  description: 
+
+-
+  name: 国际民航日 
+  date: 12-07
+  description: 
+
+-
+  name: “一二·九”运动纪念日 
+  date: 12-09
+  description: 
+  
+-
+  name: 国际反腐败日 
+  date: 12-09
+  description: 
+
+-
+  name: 世界足球日
+  date: 12-09
+  description: 
+
+-
+  name: 世界人权日 
+  date: 12-10
+  description: 
+
+-
+  name: 世界防治哮喘日 
+  date: 12-11
+  description: 
+
+-
+  name: 国际儿童广播日 
+  date: 12-12
+  description: 
+
+-
+  name: 南京大屠杀纪念日 
+  date: 12-13
+  description: 
+
+-
+  name: 世界强化免疫日 
+  date: 12-15
+  description: 
+
+-
+  name: 冰雪风情节
+  date: 12-16
+  description: 今天打雪仗！
+
+-
+  name: 国际移徙者日
+  date: 12-18
+  description: 
+
+-
+  name: 瓦屋山冰雪节
+  date: 12-18
+  description: 
+
+-
+  name: 南南合作日
+  date: 12-19
+  description: 南南已经合作了，男女相爱还会远吗？ 
+
+-
+  name: 澳门回归纪念日
+  date: 12-20
+  description: 
+
+-
+  name: 国际篮球日
+  date: 12-21
+  description: 走，今天我们去打篮球
+
+-
+  name: 平安夜
+  date: 12-24
+  description: 在这个平安夜，你是否已经拥有温暖的怀抱
+  lunar: false
+
+-
+  name: 圣诞节
+  date: 12-25
+  description: 去看看你的ta许了什么愿望，赶紧满足ta吧~
+  lunar: false
