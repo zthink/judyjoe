@@ -1,14 +1,14 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
     <head>
-        <title>Animated Form Switching with jQuery</title>
+        <title>雎鸠 恋爱行动派</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
         <meta name="description" content="Expand, contract, animate forms with jQuery wihtout leaving the page" />
         <meta name="keywords" content="expand, form, css3, jquery, animate, width, height, adapt, unobtrusive javascript"/>
 		<link rel="shortcut icon" href="../favicon.ico" type="image/x-icon"/>
         <link rel="stylesheet" type="text/css" href="css/style.css" />
 		<script src="js/cufon-yui.js" type="text/javascript"></script>
-		<script src="js/ChunkFive_400.font.js" type="text/javascript"></script>
+		
 		<script type="text/javascript">
 			Cufon.replace('h1',{ textShadow: '1px 1px #fff'});
 			Cufon.replace('h2',{ textShadow: '1px 1px #fff'});
@@ -18,93 +18,136 @@
     </head>
     <body>
 		<div class="wrapper">
-			<h1>Animated Form Switching</h1>
-			<h2>Demo: click the <span>orange links</span> to see the form animating and switching</h2>
+			<h1>欢迎来到雎鸠</h1>
+			<h2>我们是 <span>恋爱行动派</span> </h2>
 			<div class="content">
 				<div id="form_wrapper" class="form_wrapper">
 					<form class="register active">
-						<h3>Register</h3>
-						<div class="column">
+						<h3>欢迎来到雎鸠</h3>
+						
+<div>						
+	<label >*邀请码: </label>
+    <input id="invitation" name="invitation" type="text" />
+	<span class="error">有点儿小问题哦</span>
+</div>
+<!-- 
+
+<div>
+ 	<label>邮箱地址:</label><div class="controls"><input class="string email required" id="user_email" name="user[email]" size="30" type="email" />
+ </div>
+</div>
+<div >
+	<label><abbr title="必须的">*</abbr> 昵称</label>
+	<div class="controls">
+		<input class="string required" id="user_nick" maxlength="15" name="user[nick]" size="30" type="text" />
+	</div>
+</div>
+        
+<div>
+	<label><abbr title="必须的">*</abbr> 密码</label>
+	<div class="controls">
+		<input class="password required" id="user_password" maxlength="20" name="user[password]" size="30" type="password" />
+	</div>
+</div>
+<div >
+	<label>确认密码</label>
+	<div class="controls">
+		<input class="password optional" id="user_password_confirmation" maxlength="20" name="user[password_confirmation]" size="30" type="password" />
+	</div>
+</div>
+        <div>
+            <span>性别</span>
+            <div class="controls">
+                <span><input checked="checked" id="user_gender_f" name="user[gender]" type="radio" value="F" />
+                	<label class="collection_radio_buttons" for="user_gender_f">她</label>
+                </span>
+                <span>
+                	<input id="user_gender_m" name="user[gender]" type="radio" value="M" />
+                	<label class="collection_radio_buttons" for="user_gender_m">他</label>
+                </span>
+
+
+
+
+
+
+-->
+
+
+
+
 							<div>
-								<label>First Name:</label>
+								<label>邮箱:</label>
+							
+								<input  type="text" />
+								<span class="error">有点儿小问题哦</span>
+							</div>
+							<div>
+								<label>昵称:</label>
 								<input type="text" />
-								<span class="error">This is an error</span>
+								<span class="error">有点儿小问题哦</span>
 							</div>
 							<div>
-								<label>Last Name:</label>
-								<input type="text" />
-								<span class="error">This is an error</span>
-							</div>
-							<div>
-								<label>Website:</label>
-								<input type="text" value="http://"/>
-								<span class="error">This is an error</span>
-							</div>
-						</div>
-						<div class="column">
-							<div>
-								<label>Username:</label>
-								<input type="text"/>
-								<span class="error">This is an error</span>
-							</div>
-							<div>
-								<label>Email:</label>
-								<input type="text" />
-								<span class="error">This is an error</span>
-							</div>
-							<div>
-								<label>Password:</label>
+								<label>密码:</label>
 								<input type="password" />
-								<span class="error">This is an error</span>
+								<span class="error">有点儿小问题哦</span>
 							</div>
-						</div>
+							<div>
+								<label>重复密码:</label>
+								<input type="password" />
+								<span class="error">有点儿小问题哦</span>
+							</div>
+						
 						<div class="bottom">
 							<div class="remember">
 								<input type="checkbox" />
-								<span>Send me updates</span>
+								<span>有活动记得通知我~</span>
 							</div>
-							<input type="submit" value="Register" />
-							<a href="index.html" rel="login" class="linkform">You have an account already? Log in here</a>
+							<input type="submit" value="注册" />
+							<a href="index.html" rel="login" class="linkform">咦，你有账号了~ </a>
 							<div class="clear"></div>
 						</div>
 					</form>
 					<form class="login">
-						<h3>Login</h3>
+						<h3>欢迎回来</h3>
 						<div>
-							<label>Username:</label>
-							<input type="text" />
-							<span class="error">This is an error</span>
+							<label class="trivial" for="email">邮箱地址：</label>
+     						<input id="email" name="email" type="text" />
+							
+							<span class="error">有点儿小问题哦</span>
 						</div>
 						<div>
-							<label>Password: <a href="forgot_password.html" rel="forgot_password" class="forgot linkform">Forgot your password?</a></label>
+							<label>密码: <a href="forgot_password.html" rel="forgot_password" class="forgot linkform">忘记了？</a></label>
 							<input type="password" />
-							<span class="error">This is an error</span>
+							<span class="error">有点儿小问题哦</span>
 						</div>
+
+
 						<div class="bottom">
-							<div class="remember"><input type="checkbox" /><span>Keep me logged in</span></div>
-							<input type="submit" value="Login"></input>
-							<a href="register.html" rel="register" class="linkform">You don't have an account yet? Register here</a>
+							<div class="remember"><input type="checkbox" /><span>保持登陆</span></div>
+							<input type="submit" value="登陆"></input>
+							<a href="register.html" rel="register" class="linkform">还不是雎鸠会员吗？来这边注册吧~</a>
 							<div class="clear"></div>
 						</div>
 					</form>
 					<form class="forgot_password">
-						<h3>Forgot Password</h3>
+						<h3>忘记密码</h3>
 						<div>
-							<label>Username or Email:</label>
+							<label>输入您注册邮箱:</label>
 							<input type="text" />
-							<span class="error">This is an error</span>
+							<span class="error">有点儿小问题哦</span>
 						</div>
 						<div class="bottom">
-							<input type="submit" value="Send reminder"></input>
-							<a href="index.html" rel="login" class="linkform">Suddenly remebered? Log in here</a>
-							<a href="register.html" rel="register" class="linkform">You don't have an account? Register here</a>
+							<input type="submit" value="发送邮件"></input>
+							<a href="index.html" rel="login" class="linkform">忽然想起来了？</a>
+							<a href="register.html" rel="register" class="linkform">还不是雎鸠会员吗？来这边注册吧~</a>
 							<div class="clear"></div>
 						</div>
 					</form>
 				</div>
 				<div class="clear"></div>
 			</div>
-			<a class="back" href="http://tympanus.net/codrops/2011/01/06/animated-form-switching/">back to the Codrops tutorial</a>
+			<a class="back" href="http://gojujiu.com">回到雎鸠主页</a>
 		</div>
 		
 
